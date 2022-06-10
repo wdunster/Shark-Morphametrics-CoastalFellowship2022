@@ -1,2 +1,2 @@
 # Shark_Morphametrics_CoastalFellowship2022
-Data for a comparative shark morphology project with Dr. Brad Wetherbee
+Bridging the Gap Between Morphology and Ecology of Common North Atlantic Shark Species
